@@ -1,5 +1,4 @@
-# masterthesis
-Master Thesis Information Science
+# Master Thesis - Information Studies: Data Science
 
 Thesis design document: https://www.overleaf.com/read/dxmmnfzzykyb
 
