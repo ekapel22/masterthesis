@@ -1,0 +1,33 @@
+mid: id ...
+class: program/segment/group
+avType: audio/video/mixed
+title: title of the ...
+subTitle: 
+description:
+shortDescription:
+duration: 
+durationMillis: 
+imageTitle: 
+imageId: -1 no image, 0 image
+programRef: 
+seriesRef: 
+seasonRef:
+workflow:
+type: broadcast/clip/segment/season/recording/visualradiosegment/track/NaN
+broadcaster:
+scheduleEventStartChannel:
+isYouth: for children -boolean
+playsFree: boolean
+playsLegacy: boolean
+playsPlus: boolean
+playsPremium: boolean
+playsSettop:
+episodeOfString:
+imagesString: 
+memberOfString: an array is given if it's in a playlist
+profiles: 
+genres: array indicating the genre, e.g. [3.0.1.7.21]
+sortDate: 
+scheduleEventStart: 
+broadcasters: 
+scheduleEvents: channel, durationMillis, guideDate, start
